@@ -21,6 +21,9 @@ This project involves cleaning a raw housing dataset using SQL and visualizing i
 #  Dashboard Overview
 The Power BI dashboard includes the following key visualizations:
 
+
+<img width="1305" height="733" alt="Housing_Dashboard" src="https://github.com/user-attachments/assets/425f651e-4fbc-45a5-bff0-2430174ac8ce" />
+
 ## Sales Trend Over Time
 
 - Shows average housing prices month by month.
